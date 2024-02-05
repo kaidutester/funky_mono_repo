@@ -1,0 +1,1 @@
+export const defaultRSSI = { rssi_threshold: -80 };
