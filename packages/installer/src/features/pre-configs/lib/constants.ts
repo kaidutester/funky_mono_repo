@@ -1,0 +1,1 @@
+export const PRECONFIG_NO_VALUE_PLACEHOLDER = '-';
